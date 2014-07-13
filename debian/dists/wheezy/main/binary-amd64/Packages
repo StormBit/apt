@@ -1,0 +1,16 @@
+Package: inspircd
+Installed-Size: 11416
+Maintainer: Rikairchy Albright (admin@rikairchy.net)
+Architecture: amd64
+Version: 2.0.16-1
+Depends: libgnutls-dev,gnutls-bin,pkg-config
+Provides: inspircd
+Priority: extra
+Section: checkinstall
+Filename: pool/main/i/inspircd/inspircd_2.0.16-1_amd64.deb
+Size: 3114914
+SHA256: f4d9c42772fdbbb5629f1a76b2a33f80b280605f3298ba84e730235aa0095154
+SHA1: f16c621b4fdad90bc524d350a8f95769bf8a703f
+MD5sum: c6032f382a4adb22de59eabe57fe55f3
+Description: inspircd debian package
+
