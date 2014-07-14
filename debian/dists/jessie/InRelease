@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: StormBit Dev Team
+Label: StormBit repo
+Codename: jessie
+Date: Mon, 14 Jul 2014 10:44:35 UTC
+Architectures: i386 amd64
+Components: main
+Description: apt repo for SBDT
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 9559f24d9e090a89ea1c5e430c096e0c 113 main/binary-i386/Release
+ 29c5e2d339ef0a88443ab4c5ef488aa0 505 main/binary-amd64/Packages
+ 76e71fe830da042d6b7f573b8342dd2a 369 main/binary-amd64/Packages.gz
+ 27ec4475d2f30ce3f6f8481c158aa684 114 main/binary-amd64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 6a38b8394d18bb8ef525a1e5502547709ee78a8f 113 main/binary-i386/Release
+ 5bab0ddf3a830bfdff677a941fe49cb5b698a525 505 main/binary-amd64/Packages
+ c47bcd9f4151628c1de72c6327c1c2ac7c6dea1a 369 main/binary-amd64/Packages.gz
+ 6ce9f4fbb48d711f6e81bae092a1128e5084f3cd 114 main/binary-amd64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 7ed62a8832c37deb9c3fba0f8ddb276c0dc4efdef9e0b8249e9121a8ed70cec1 113 main/binary-i386/Release
+ 7c41cbb6c520b8748a29689cba20878fd8f5165141a3bf98747c6a1dd540aa92 505 main/binary-amd64/Packages
+ 5dd5cf8713eb0f90f2933ad60f41223e785f601ff300651c8be01d17e7242cc1 369 main/binary-amd64/Packages.gz
+ b8572f3a853e8f9f3f4f2ceac42db0c6d84556aaedbb7f5eea1b938121281e3f 114 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJTw7STAAoJEKhMpYd5EIvgieEH/RdaalNj9bc6egCH0mDUPILu
+LfTxXgKMe8xBy8XhWPPPIznv18wRB7viMW6UgS9jabFQhCUgYNRSORRi7JwcbOeg
+gYYRVMpEStIP8nlK0N+WWlChGIwWh+MtqX0HxKwOrQqTIOq5Cq9bcpohRhwfbtNF
+OR44/j7GVvsFVsAjZ4QVY7hbgCMI1v1i7AFYJK1820cIhn2JuTdRlP3c1r6FuQWU
+0Z0o1gOcPNCBRYRTl0thOvL5o5FYefYUuHoqnkDtg/Q9nPfzfDCKfuDqsm5Ttrqz
+0ioOgMdVmUFOQ3DxcX1V5GDKL1R83MoNI7cLUAvoXYcUWrp6AV/gQi85LRpZfRA=
+=zp7T
+-----END PGP SIGNATURE-----

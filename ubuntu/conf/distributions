@@ -1,0 +1,56 @@
+Origin: StormBit Dev Team
+Label: StormBit repo
+Codename: utopic
+Architectures: i386 amd64
+Components: main
+Description: apt repo for SBDT
+SignWith: EECE42C2
+
+Origin: StormBit Dev Team
+Label: StormBit repo
+Codename: trusty
+Architectures: i386 amd64
+Components: main
+Description: apt repo for SBDT
+SignWith: EECE42C2
+
+Origin: StormBit Dev Team
+Label: StormBit repo
+Codename: saucy
+Architectures: i386 amd64
+Components: main
+Description: apt repo for SBDT
+SignWith: EECE42C2
+
+Origin: StormBit Dev Team
+Label: StormBit repo
+Codename: raring
+Architectures: i386 amd64
+Components: main
+Description: apt repo for SBDT
+SignWith: EECE42C2
+
+Origin: StormBit Dev Team
+Label: StormBit repo
+Codename: quantal
+Architectures: i386 amd64
+Components: main
+Description: apt repo for SBDT
+SignWith: EECE42C2
+
+Origin: StormBit Dev Team
+Label: StormBit repo
+Codename: precise
+Architectures: i386 amd64
+Components: main
+Description: apt repo for SBDT
+SignWith: EECE42C2
+
+Origin: StormBit Dev Team
+Label: StormBit repo
+Codename: lucid
+Architectures: i386 amd64
+Components: main
+Description: apt repo for SBDT
+SignWith: EECE42C2
+
