@@ -1,1 +1,5 @@
 Temporary index for StormBit APT Repo.
+
+To obtain the necessary key for APT, issue the following command as root/sudo:
+
+gpg --keyserver pgp.mit.edu --recv-key A84CA58779108BE0 && gpg -a --export 79108BE0 | apt-key add -
