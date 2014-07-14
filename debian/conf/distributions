@@ -5,3 +5,20 @@ Architectures: i386 amd64
 Components: main
 Description: apt repo for SBDT
 SignWith: EECE42C2
+
+Origin: StormBit Dev Team
+Label: StormBit repo
+Codename: squeeze
+Architectures: i386 amd64
+Components: main
+Description: apt repo for SBDT
+SignWith: EECE42C2
+
+Origin: StormBit Dev Team
+Label: StormBit repo
+Codename: jessie
+Architectures: i386 amd64
+Components: main
+Description: apt repo for SBDT
+SignWith: EECE42C2
+
