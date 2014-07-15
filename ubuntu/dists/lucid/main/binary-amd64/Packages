@@ -2,15 +2,17 @@ Package: inspircd
 Installed-Size: 11416
 Maintainer: Rikairchy Albright (admin@rikairchy.net)
 Architecture: amd64
-Version: 2.0.16-1
+Version: 2.0.16-3-1
 Depends: libgnutls-dev,gnutls-bin,pkg-config
 Provides: inspircd
+Replaces: inspircd
 Priority: extra
 Section: checkinstall
-Filename: pool/main/i/inspircd/inspircd_2.0.16-1_amd64.deb
-Size: 3114876
-SHA256: 5d767741851086f4fd17df462d0e431ba9fedce55b467e5e7a565c253f1a6bf8
-SHA1: 8b3b47da93e08603ddd6199f5917ed797d130fd6
-MD5sum: c0ee4e265097f6ac55c537ffc919525e
-Description: inspircd debian package
+Filename: pool/main/i/inspircd/inspircd_2.0.16-3-1_amd64.deb
+Size: 3114912
+SHA256: 706c7c1fc41aed6a372e32d55fe4edb3214b1b6bd85d21b2df243e4d29445af9
+SHA1: a45ec3e73467a6d4c544ab8852c7eaf21c19cf7a
+MD5sum: 9a1f47f1772704939578a1810798992f
+Description: InspIRCd packaged by the StormBit Dev Team
+ inspircd debian package
 
