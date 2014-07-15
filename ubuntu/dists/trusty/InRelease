@@ -4,7 +4,7 @@ Hash: SHA1
 Origin: StormBit Dev Team
 Label: StormBit repo
 Codename: trusty
-Date: Tue, 15 Jul 2014 08:15:47 UTC
+Date: Tue, 15 Jul 2014 08:39:59 UTC
 Architectures: i386 amd64
 Components: main
 Description: apt repo for SBDT
@@ -32,11 +32,11 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iQEcBAEBAgAGBQJTxOMzAAoJEKhMpYd5EIvgtXwIAImciKinNw1JzUHVIEoyasR4
-633F8jvPMfnXFAxmsuAy5Edm/4yL1JKCB1THW1bI6BkMRzAfRs0Wq4mWiSIQiUkm
-c3cYtvih3NHGiR5rmHlRkYMZU/ndGy28DQOJirYBWgU97PBGBloYFgBnKoATODmp
-HIMdudNYvvu97NJ0HPUu20Lzsgn+wdn2tEnz46aox/0dY+zShBUlISI/d9uYk7CI
-2+oNwKMJNO7yuxjhCUMjkYsVIK+2AH5+3VvDGmTRYJUuM9+pFBlMujJJqW7Sa43y
-TimPt5UmPRgLc40BLewSLiBlGrtiRjd+2UuyBMrSG3i/zRt8JdmJXg7X0I6z8Is=
-=OgS+
+iQEcBAEBAgAGBQJTxOjfAAoJEKhMpYd5EIvgudoH/jwRtVsicb0vo2bLPRE+b6dE
+jTAXLaWJcuL9OeSHO8nhng1wq7YDLrEClrZAu+r1omf0TOFTrmfeDHWfqt4fawJ7
+3wwzpS67soT+T3Cr+no3PmuSAWI04IfTjGh0WR9NMcjDaq+ZZxF/5iosLXDOTyTC
+98ujH7aUJQssbtH0E0DCWzU6fJDZpxqbt/HWA//Kk8UfVfWWj24k7z50JPmUsgOa
+CiJv1lfgMfcCT7PCcRD/C0X/dB3S7Y8xbD8jqVThbbDlvwDzD65oXxVb2BeKqpRv
+1FDnrztziPkn2Lz8SL7iVShtRqj1+dIAebY1A5roe3JQQFmcV3NiHbDrBb6pTgM=
+=RnfE
 -----END PGP SIGNATURE-----
