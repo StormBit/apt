@@ -2,4 +2,4 @@
 
 ---
 
-This the [StormBit](http://stormbit.net/) APT repo for Debian and Debian-like systems.  Compatible with Ubuntu and Gentoo.
+This the [StormBit](http://stormbit.net/) APT repo for Debian and Debian-like systems.  Compatible with Ubuntu and APT/deb based Linux distributions
