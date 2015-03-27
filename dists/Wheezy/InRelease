@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: StormBit
+Label: StormBit
+Codename: Wheezy
+Date: Fri, 27 Mar 2015 19:36:10 UTC
+Architectures: amd64
+Components: main
+Description: StormBit APT repo
+MD5Sum:
+ 5e8fa7f50ae1eefa4ca6b3d594a5c1a9 478 main/binary-amd64/Packages
+ 937e31bded0316f75f6f3b80dfaa081f 368 main/binary-amd64/Packages.gz
+ aa61516d9e94999fa6ace7a16664b7d3 100 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ e05c36145c2907c7bef2786d1221230a 101 main/source/Release
+SHA1:
+ 0c1c2460bb857dbe50e04280a6f93acfe1bbeefc 478 main/binary-amd64/Packages
+ a6988fa9e2e2e5237359f4665a56452e1d51d2e5 368 main/binary-amd64/Packages.gz
+ c2f7c6d16c8734b5d7ee5f02c17aca5d54eb3a19 100 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 4ea949ca65bf7ff824591e063a43299501e7144b 101 main/source/Release
+SHA256:
+ 99584d9abaf68727184fc9a5daa50054524f41c59e09f77c3293a7718268a752 478 main/binary-amd64/Packages
+ 79ad3cabffc0400a979356c8dfcb98e7bd55520a6bbf32c3ce62c2b40a20ac6f 368 main/binary-amd64/Packages.gz
+ e129d7130b1c8a8bad600ad750b0dfab0447cc87d1baac93d6107839b7ced7a3 100 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 4ea37371e861d3c94db2f08135a12ff916821193b2519dcc202c94246d7a4e8a 101 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQIcBAEBAgAGBQJVFbEuAAoJEKVnCRTOziHS8GcP/0hPNvBxHgTQFyw9mLwN97je
+tLX5ogGp0H9WLvP3PwuwLV+N6qty6MwdlLhWMPGeuZ+IKH8Y91Y0nG+m6t693dmL
+D39LN3FhtDAGkCLMR6jPUnZHCp1uS4wiUPXskhmtZIwn9uIuJDKkGn2M8s/WjvV/
+HTb6IfQV4gYVa9X2Xf/1ZclbE/hOdAm6QFmAlvKwHe8YUCtDcABwBbxNxWCZ9zcg
+4d9lyJNUJED3joyaoHoH8XIi8HpOwuLFadjqvcrdoYTmUaqK6AKCU+KWsvJWtT8d
+vvJurbaqTI5tVyFVpoJjgUovLTmgAIW8EltUZNPG95pfBuueovmZKttG6H/2lYEV
+3Z6m6Apodpp6Enw7Me0XI70o0Gn4Jk00cfdvyUfx172BzNbuSMtQLurj/E/9KjoB
++vUBd+WI+t0/14aSpy4Bc7fy/n5/tAkuDtWPFw3ZBAdwTnZuD5jfJhbiMyUoS0bM
+5pSKTGxlb10RGL8m8XFlZFMTx4xkg19iuJUNc7S3Fw4h5ZFeZ3V1rmimlK5FFoBj
+Ldx9Uswys12XasT4TU+WKIH1A0v7cpQpns08OCf6yBJuz8UsoufnvqpV6630SOxO
+4zRxKyKbYQ246aRuMTreBUHc0Y9pZNY/P8YocOk+Ib/CE+/84qoXDdVB0fwOod+T
+72FLfdbJyqY7XygdDh2T
+=v8zQ
+-----END PGP SIGNATURE-----

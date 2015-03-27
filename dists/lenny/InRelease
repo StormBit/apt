@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: StormBit
+Label: StormBit
+Codename: lenny
+Date: Fri, 27 Mar 2015 19:54:12 UTC
+Architectures: amd64
+Components: main
+Description: : StormBit APT repo
+MD5Sum:
+ 357c669db1df85630b50493f6a2fde89 1050 main/binary-amd64/Packages
+ 00ba292c74cf1c89fcd72848f92020e9 607 main/binary-amd64/Packages.gz
+ eeacf7fddb5c917840fb22453066bd15 102 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ d1fd6dd61c471d6b157abeea4e2af607 103 main/source/Release
+SHA1:
+ ab1c200fc67c7551d8f917848cfe855c194494fd 1050 main/binary-amd64/Packages
+ 11ee188c5b5b4b5c38cc4dca8f8baac4aa7655f2 607 main/binary-amd64/Packages.gz
+ dcece31716b577bf8351f116344c07ce0f53fda3 102 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 6ed4340905e14ed7999e2a32bc28b90a95f973c2 103 main/source/Release
+SHA256:
+ 4457e31bf7eb723db544e4d78bab9fcd84d08862146cced97a9342a1538c893b 1050 main/binary-amd64/Packages
+ 1df4fded6293aa0cc941abd82b2bbfdc3c6c6930fca7f7d8365990993d285419 607 main/binary-amd64/Packages.gz
+ 34202832207ac05c35b7fd7169466d05cccb00ac3efab3f35260e49ff2a92ff4 102 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 345317f82b9a9d00dd15413d77288ac9d1b7344c79923c3fa15b94c26f6ef815 103 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQIcBAEBAgAGBQJVFbVoAAoJEKVnCRTOziHSpcYP/iAKNrJ9WFLCisqV/efWwZpa
+RdTuy/C3FwfdZPkSyws6LsfDJ9sQwWzM4dr173J52+M6GJNWsQMsuAgJpD++X7II
+SI/gL+f36jdxvej2xt2wqZ6gW/Vmo/36gCoVaSIy6M39kOS5Fd1M8deJDSVFoTQh
+cZMfvA7Izt+adJDhpbjg1CmeG5qC+eYbt+04LH7dqd9HjWmB5c/UTN3yjmTnBB2O
+xnIlIIdiNd0qmQ8JOWHpQbg2vGt9EE38Xd5Mq1Sd1Utlv3jWaPZArDsppBiZ4Opd
+qMZ9FT8Gi+muHzsPNHYg/tkLpsKzi7jE8K+nIfauXIirXk+Gv80t5k9asGKAANF9
+8hNPPhavldMicqpkD0rVQsxBECD27NDl3EEMw9Tc58wWXR6ECpKTnuP1lyQHMLWr
+U8sC5upZ2dOh5pS1Gob2ER2tuTeFB8obUsxbknHplZ/Vu2MzhhJj5eJ3N2y/JwzN
+m9HHNe8SXtTkOFsNEu5PgsczzAa0WpY7u2Os/dWtKKIN1p7zWKUztyfC+5ar11PH
+/A23j/gaD5/r0UGy28bEOFrtHJBA1tMQOUDju/bXRPBRENezm9xX7xPiZ1+FHmn2
++1pRpwXkRgXapuIhhxapdJIzOsBa2jxT3bSwBP7L/oczMkmDF5EUXKi/7vxge1M5
+pXtVYS/4bXgY7+cj1IAd
+=H+sD
+-----END PGP SIGNATURE-----

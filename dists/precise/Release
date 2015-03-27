@@ -1,0 +1,28 @@
+Origin: StormBit
+Label: StormBit
+Codename: precise
+Date: Fri, 27 Mar 2015 20:00:48 UTC
+Architectures: amd64
+Components: main
+Description: StormBit APT repo
+MD5Sum:
+ 357c669db1df85630b50493f6a2fde89 1050 main/binary-amd64/Packages
+ 00ba292c74cf1c89fcd72848f92020e9 607 main/binary-amd64/Packages.gz
+ aa61516d9e94999fa6ace7a16664b7d3 100 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ e05c36145c2907c7bef2786d1221230a 101 main/source/Release
+SHA1:
+ ab1c200fc67c7551d8f917848cfe855c194494fd 1050 main/binary-amd64/Packages
+ 11ee188c5b5b4b5c38cc4dca8f8baac4aa7655f2 607 main/binary-amd64/Packages.gz
+ c2f7c6d16c8734b5d7ee5f02c17aca5d54eb3a19 100 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 4ea949ca65bf7ff824591e063a43299501e7144b 101 main/source/Release
+SHA256:
+ 4457e31bf7eb723db544e4d78bab9fcd84d08862146cced97a9342a1538c893b 1050 main/binary-amd64/Packages
+ 1df4fded6293aa0cc941abd82b2bbfdc3c6c6930fca7f7d8365990993d285419 607 main/binary-amd64/Packages.gz
+ e129d7130b1c8a8bad600ad750b0dfab0447cc87d1baac93d6107839b7ced7a3 100 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 4ea37371e861d3c94db2f08135a12ff916821193b2519dcc202c94246d7a4e8a 101 main/source/Release

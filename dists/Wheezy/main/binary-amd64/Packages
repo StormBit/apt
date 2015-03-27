@@ -1,0 +1,16 @@
+Package: znc
+Installed-Size: 11752
+Maintainer: Rikai [matt.r@stormbit.net]
+Architecture: amd64
+Version: 1.6-0-1
+Depends: openssl,python,python3,tcl,perl,libsasl2-2
+Provides: znc
+Priority: extra
+Section: checkinstall
+Filename: pool/main/z/znc/znc_1.6-0-1_amd64.deb
+Size: 3675010
+SHA256: 02ca30453802377144f9ee5a380e5a5c6c8a7758e5790599ae7d85acd2725df4
+SHA1: 31a92ea9c12744d3ee4cb4f1dd2e89e889dca28b
+MD5sum: ecef7b5abfc8fee2a8270bcb850316aa
+Description: ZNC package for StormBNC
+

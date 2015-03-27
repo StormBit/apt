@@ -1,0 +1,5 @@
+Component: main
+Origin: StormBit
+Label: StormBit
+Architecture: amd64
+Description: : StormBit APT repo

@@ -1,0 +1,34 @@
+Package: inspircd
+Installed-Size: 11416
+Maintainer: Rikairchy Albright (admin@rikairchy.net)
+Architecture: amd64
+Version: 2.0.16-3-1
+Depends: libgnutls-dev,gnutls-bin,pkg-config
+Provides: inspircd
+Replaces: inspircd
+Priority: extra
+Section: checkinstall
+Filename: pool/main/i/inspircd/inspircd_2.0.16-3-1_amd64.deb
+Size: 3114912
+SHA256: 706c7c1fc41aed6a372e32d55fe4edb3214b1b6bd85d21b2df243e4d29445af9
+SHA1: a45ec3e73467a6d4c544ab8852c7eaf21c19cf7a
+MD5sum: 9a1f47f1772704939578a1810798992f
+Description: InspIRCd packaged by the StormBit Dev Team
+ inspircd debian package
+
+Package: znc
+Installed-Size: 11752
+Maintainer: Rikai [matt.r@stormbit.net]
+Architecture: amd64
+Version: 1.6-0-1
+Depends: openssl,python,python3,tcl,perl,libsasl2-2
+Provides: znc
+Priority: extra
+Section: checkinstall
+Filename: pool/main/z/znc/znc_1.6-0-1_amd64.deb
+Size: 3673714
+SHA256: 7489d517cf673142f5196be5013a985d49314c9e41d294fa1cd68d5b97121cbd
+SHA1: 8f6ffecb7263a14e640021c8326a06117a1f63ec
+MD5sum: c7bfbf300b6fa91edea55e81a61a2a21
+Description: ZNC package for StormBNC
+
