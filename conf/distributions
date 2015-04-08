@@ -1,7 +1,7 @@
 Origin: StormBit
 Label: StormBit
 Codename: lenny
-Architectures: amd64 source
+Architectures: amd64 source i386
 Components: main
 Description:: StormBit APT repo
 SignWith: CECE21D2
@@ -9,7 +9,7 @@ SignWith: CECE21D2
 Origin: StormBit
 Label: StormBit
 Codename: wheezy
-Architectures: amd64 source
+Architectures: amd64 source i386
 Components: main
 Description: StormBit APT repo
 SignWith: CECE21D2
@@ -17,7 +17,7 @@ SignWith: CECE21D2
 Origin: StormBit
 Label: StormBit
 Codename: squeeze
-Architectures: amd64 source
+Architectures: amd64 source i386
 Components: main
 Description: StormBit APT repo
 SignWith: CECE21D2
@@ -25,7 +25,7 @@ SignWith: CECE21D2
 Origin: StormBit
 Label: StormBit
 Codename: jessie
-Architectures: amd64 source
+Architectures: amd64 source i386
 Components: main
 Description: StormBit APT repo
 SignWith: CECE21D2
@@ -33,7 +33,7 @@ SignWith: CECE21D2
 Origin: StormBit
 Label: StormBit
 Codename: sid
-Architectures: amd64 source
+Architectures: amd64 source i386
 Components: main
 Description: StormBit APT repo
 SignWith: CECE21D2
@@ -41,7 +41,7 @@ SignWith: CECE21D2
 Origin: StormBit
 Label: StormBit
 Codename: precise
-Architectures: amd64 source
+Architectures: amd64 source i386
 Components: main
 Description: StormBit APT repo
 SignWith: CECE21D2
@@ -49,7 +49,7 @@ SignWith: CECE21D2
 Origin: StormBit
 Label: StormBit
 Codename: oneiric
-Architectures: amd64 source
+Architectures: amd64 source i386
 Components: main
 Description: StormBit APT repo
 SignWith: CECE21D2
@@ -57,7 +57,7 @@ SignWith: CECE21D2
 Origin: StormBit
 Label: StormBit
 Codename: quantal
-Architectures: amd64 source
+Architectures: amd64 source i386
 Components: main
 Description: StormBit APT repo
 SignWith: CECE21D2
@@ -65,7 +65,7 @@ SignWith: CECE21D2
 Origin: StormBit
 Label: StormBit
 Codename: raring
-Architectures: amd64 source
+Architectures: amd64 source i386
 Components: main
 Description: StormBit APT repo
 SignWith: CECE21D2
@@ -73,7 +73,7 @@ SignWith: CECE21D2
 Origin: StormBit
 Label: StormBit
 Codename: saucy
-Architectures: amd64 source
+Architectures: amd64 source i386
 Components: main
 Description: StormBit APT repo
 SignWith: CECE21D2
@@ -81,7 +81,7 @@ SignWith: CECE21D2
 Origin: StormBit
 Label: StormBit
 Codename: trusty
-Architectures: amd64 source
+Architectures: amd64 source i386
 Components: main
 Description: StormBit APT repo
 SignWith: CECE21D2
@@ -89,7 +89,7 @@ SignWith: CECE21D2
 Origin: StormBit
 Label: StormBit
 Codename: utopic
-Architectures: amd64 source
+Architectures: amd64 source i386
 Components: main
 Description: StormBit APT repo
 SignWith: CECE21D2
