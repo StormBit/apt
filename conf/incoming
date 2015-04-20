@@ -1,0 +1,4 @@
+Name: incoming
+IncomingDir: /root/apt/incoming/
+TempDir: /tmp
+Allow: lenny wheezy squeeze jessie sid precise oneiric quantal raring saucy trusty utopic
