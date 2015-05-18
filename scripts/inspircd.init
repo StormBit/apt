@@ -1,0 +1,38 @@
+#!/bin/sh
+
+### BEGIN INIT INFO
+# Provides:     inspircd
+# Required-Start:   $remote_fs $syslog
+# Required-Stop:    $remote_fs $syslog
+# Default-Start:    2 3 4 5
+# Default-Stop:
+# Short-Description:    InspIRCd IRC server daemon
+# Description:      StormBit's INIT script for the InspIRCd IRC server software
+### END INIT INFO
+
+EXE=/usr/local/bin/inspircd
+
+set -e
+
+# /etc/init.d/inspircd: start and stop the InspIRCd server
+
+case "$1" in
+    start)
+    $EXE start;
+    ;;
+    stop)
+    $EXE stop;
+    ;;
+    info)
+    $EXE status; $EXE version
+    ;;
+    restart)
+    $EXE restart
+    ;;
+    reload)
+    $EXE rehash;
+    ;;
+    help)
+    $EXE help;
+esac
+exit 0
