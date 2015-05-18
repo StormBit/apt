@@ -1,19 +1,19 @@
 Package: inspircd
-Installed-Size: 13704
+Installed-Size: 12584
 Maintainer: matt.r@stormbit.net
 Architecture: amd64
-Version: 2.0.19-1-1
+Version: 2.12.20-0-1
 Depends: pkg-config,perl,gnutls-bin
 Provides: inspircd
 Replaces: inspircd
 Priority: extra
-Section: checkinstall
-Filename: pool/main/i/inspircd/inspircd_2.0.19-1-1_amd64.deb
-Size: 1865390
-SHA256: 67454ba28e7b5a9498133853cab83b452b39f5509ea34dfefd2b223546e47ff0
-SHA1: c8d60776d0e3250b42c4a877149891fb6690f649
-MD5sum: 87afa15121662e75099fa92840fe96e1
-Description: InspIRCd compiled package for StormBit IRC
+Section: StormBit
+Filename: pool/main/i/inspircd/inspircd_2.12.20-0-1_amd64.deb
+Size: 3494922
+SHA256: 3a83fee219ddc5c7d4f1f302947ab0b57a4f5236b3a8781b55e87e8890ab1789
+SHA1: 2f75b1c17a4f67471bf9e026255ecb67d40e2a26
+MD5sum: 051ebacbce937f789d5b7b32d4f735ac
+Description: StormBit InspIRCd server package
 
 Package: znc
 Installed-Size: 11752
