@@ -4,13 +4,13 @@ Hash: SHA1
 Origin: StormBit
 Label: StormBit
 Codename: saucy
-Date: Thu, 21 May 2015 01:47:10 UTC
+Date: Thu, 21 May 2015 01:55:09 UTC
 Architectures: amd64 i386
 Components: main
 Description: StormBit APT repo
 MD5Sum:
- 0e64f84cba808831bac4d4d0ad505009 990 main/binary-amd64/Packages
- a2a5ec48f1cfc8ed3376842625ed996c 570 main/binary-amd64/Packages.gz
+ e3123130e04ee697376e5bb8471c8ef2 990 main/binary-amd64/Packages
+ 73e66acb5004aadaf8d757e127bef57b 570 main/binary-amd64/Packages.gz
  aa61516d9e94999fa6ace7a16664b7d3 100 main/binary-amd64/Release
  46a8dd605faa8bac419379ed33d7e01a 480 main/binary-i386/Packages
  cd0ef02194eb79b8fa91e8d87373bbce 368 main/binary-i386/Packages.gz
@@ -19,8 +19,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  e05c36145c2907c7bef2786d1221230a 101 main/source/Release
 SHA1:
- a7a74f28a32b472cb4519f33c110897f7b3ed326 990 main/binary-amd64/Packages
- 7a99c1aad7df348d7dd37a0187d2d6db1c1647c9 570 main/binary-amd64/Packages.gz
+ b83c18632ac8405a6816f00bf2b1f345a8175c6f 990 main/binary-amd64/Packages
+ 7ec5fd3d8cf0af4e890f5f2808ce2d94cab54780 570 main/binary-amd64/Packages.gz
  c2f7c6d16c8734b5d7ee5f02c17aca5d54eb3a19 100 main/binary-amd64/Release
  8a056997f26ad29bc2c550319c6435afe8375cb8 480 main/binary-i386/Packages
  1a9fcac8eeba3ed4cd7941f048a1eb9ab0537b38 368 main/binary-i386/Packages.gz
@@ -29,8 +29,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  4ea949ca65bf7ff824591e063a43299501e7144b 101 main/source/Release
 SHA256:
- c425fe9c9dcc826fe205678eaef944a572e841b7a2b287159ca9c6f676a523dd 990 main/binary-amd64/Packages
- eaf08f005601a749001245bbde9561ddf3ca764040fd8621d4669072779024c4 570 main/binary-amd64/Packages.gz
+ 04f1971d3214539d252201f7000ca565ff766f568e452d29c5385623a99850dc 990 main/binary-amd64/Packages
+ b8b5aedf2ed06d685a83a8463b09ecf7449befb66a9cf896b2f14bbe35894d5e 570 main/binary-amd64/Packages.gz
  e129d7130b1c8a8bad600ad750b0dfab0447cc87d1baac93d6107839b7ced7a3 100 main/binary-amd64/Release
  c35a55121d8161e926eddef43e5d708be8f7c69f01c339073d9c74e544ab3978 480 main/binary-i386/Packages
  58bf1430ee6bfe3b8f3d424cec450f99cfa6fbe24d6fb11cb1cbea73f57a2662 368 main/binary-i386/Packages.gz
@@ -41,17 +41,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iQIcBAEBAgAGBQJVXTkfAAoJEKVnCRTOziHS+xoQALM3AKIzzU2TwDN0Ix2HUF68
-nc45Q0Y4wgzWMHBQBbRFZZlo+4lj4UjL7W0Xxia9FN2yscFcuWhN/AXdU6UU2gfU
-z+7Qkxac3IHSyln0JMI6I0OhRmdQOvIWV6ssO9feq7g36eC7sUV1HZbAPLkKge8U
-seNUdWL0ozOvRsvGxGhfkVIhhbGFLBPBXJSJmwKFu24EREKA4ZSYKUp80Z5lNVe3
-3FGX9lOOGd+Adhbmj/DDYqxq/Ny2Na5WoslrbXzsv5llrI2mwD+2Wf8KLu9Oi4YG
-NETBIdjUE2tTtzEb8Ryil5o4uF/6NWalDbxZjORT3J/NY6+Wt4vpoh9glsMgnZbx
-Fh5iyZq1+ib8vmZ5F/al2PW5G1/YbaJijpYZnlBifcdAtdQXDYQtggpQdPYnbMDk
-Y9kFb59aYVALEWILyze9swsNXoxUyz+bgVl5hRlk2keV8i52P8nn3gSU0RKjdwZI
-AI7pkf9yHTbXVPgiuHc+YG6zUfM4ZCEfXZ/iO7I1iE92NFWgsvvwpw8IL1EfA8rm
-CYd34+4nBE9nbvgepRCl5t6CPD8KnQ03k9EsVHNQH3R7QU6Y3/vdVqNCSfImgQro
-jDJ5ACKz6/e1AH8x3Up29SjlvVT1uJqor6eUyg40706beIFTwaF/tJhHz8enncVz
-20kBxTF+QmjKc76P3LSj
-=Jx+4
+iQIcBAEBAgAGBQJVXTr+AAoJEKVnCRTOziHSlHIP/0PM4fF62MuHMfvwIvL7tujb
+Jp8LCZzEktrf3spN1VMdlfIr1JZqdmqb4AJBOwMCWgZSkY6rpQqp9eLkebIrVTga
+GQ06rQjw/J8815dJpDB/OrNc3obR24AOXeiDTC/F87VlHpSecGZ2acCjrY+LA3sy
+rd+3kEIjRylO2nGRAoclA50sIyr975SRZQSFjNpEwljAlbHJES5NHVnnXeF9fI+3
+4vPUehx2s5RSsg/hv+HHzS9te+1t2tR/fzO29+Pw9JT3eUFlXnB5Z1KV3xD0e3sN
+kN/5gAiVltIlHxhE4IQlt15lpVFgZaj6BGBnr0n1NnNgALLyMfEFHQ2a/6jYEkev
+OgELQfFIHAxrhfHviDZpA2lBzVxzwnQ6iMfW8umwL4Fnqhpjm7BtAUbQlnnZ8cTz
+DJX5BTBDAfYlb+LCibWp4zB055PyGBZIuxLCMzRDXK0tH1GcI5O698MNVZyQAbWr
+2kvY8My/WBJUoXpSXlWUzqZIczOfMHWjZH7oPmkdYn/eSoibSpA4IT3WHy8a3tma
+pqLIaEzCL1WgK8Uh6ghGPntzgpjvfFsOkCjx/1DqWMZZg3EvcwKd3U5TtjMCSaxc
+RiC1v0/aEd3jyXVsksezibo7us34E/eOs+2n4d4ZONoLw+iJty/x6kDaFUV3uizJ
+FHqriLEsm8Po4yBPCImX
+=pdFx
 -----END PGP SIGNATURE-----
